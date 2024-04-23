@@ -1,2 +1,4 @@
 github.com/Raghadan/GoTest/add v0.0.0-20240423090913-a288a45d0fb1 h1:EXyL6gtHcLynPVjgy1W7EqOH23jrEyXJ82m7pFlhcqs=
 github.com/Raghadan/GoTest/add v0.0.0-20240423090913-a288a45d0fb1/go.mod h1:gsDSY928dLlBdTpBc6IuL9AsqYfZV5pJ+tnOqKV+dyo=
+github.com/Raghadan/GoTest/combination v0.0.0-20240423091904-5c0043c32aee h1:ITrkeXZ5q7ESt2dxI1YGAaaShH0HtCYyb6ia2GotnZg=
+github.com/Raghadan/GoTest/combination v0.0.0-20240423091904-5c0043c32aee/go.mod h1:ZnZkviSk1BboHjcnqnnq177YfGXP/romo2k/Wanr+rU=
