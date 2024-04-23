@@ -1,6 +1,8 @@
 package gotest
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
 	fmt.Println("Hello ")

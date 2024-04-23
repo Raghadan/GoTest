@@ -1,4 +1,4 @@
-module github.com/Raghadan/GoTest
+module github.com/Raghadan/GoTest/combination
 
 go 1.22.2
 
